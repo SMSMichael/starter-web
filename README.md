@@ -1,7 +1,7 @@
 # Starter Web Project
 
 This is a simple website project for showing how to use Git and Githubb together.  It's so cool.
-Adding a line for rebasing example, the more changes from myfeature branch too!
+Doing an emergency fix after our fix
 
 ## Introduction
 
